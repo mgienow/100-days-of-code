@@ -18,3 +18,12 @@
 **Thoughts:** Although I was mostly able to stay ahead of the step-by-step how to in PJS, I definitely needed the first step outlined as a prompt to get me going and headed in the right direction. Humbled by a briefly baffling glitch which I realized quickly enough was because I had incorrect object syntax inside a method. I should know this stuff by now, and delivered the appropriate amount of self-castigation. At the same time, I did catch it pretty quick, so there's that. Focus on progress, on how far I have come, and not on the times I stumble: that is the challenge.
 
 **Link to work:** https://plnkr.co/edit/kdR60nFHvdDa5FRmX21H?p=info
+
+
+###Day 3: January 3, 2018
+
+**Today's Progress:** Versions 4 & 5 of WatchandCode Practical JavaScript
+
+**Thoughts** Felt significantly more fluent with the code today. Able to press ahead even when it felt overwhelming; if i took a minute -- or several minutes -- to think things through, I could figure it out without relying on being led through it. Still feeling rusty, but proud and more confident. Also it finally occurred to me that I should start a repo for the different iterations of the app as it progresses.
+
+**Link to Work** https://github.com/mgienow/ToDo-List-App
