@@ -7,5 +7,14 @@
 
 **Thoughts:** Simply getting this repo set up is sort of a win. I'm very tired and not thinking clearly. Tried to start off with a codewars challenge and could not engage my brain. I've been away from JS mindset for close to a month and the gears were grinding. But I know steady practice each day will create real progress.
 
-**Link to work:** all in my head!! for now 
+**Link to work:** all in my head!! for now
 
+----------
+
+###Day 2: January 2, 2018
+
+**Today's Progress**: Ninety-plus minutes reviewing -- and coding ahead of the instructions, woo hoo! -- Practical JavaScript in preparation for jumping into the professional track at watchandcode.com
+
+**Thoughts:** Although I was mostly able to stay ahead of the step-by-step how to in PJS, I definitely needed the first step outlined as a prompt to get me going and headed in the right direction. Humbled by a briefly baffling glitch which I realized quickly enough was because I had incorrect object syntax inside a method. I should know this stuff by now, and delivered the appropriate amount of self-castigation. At the same time, I did catch it pretty quick, so there's that. Focus on progress, on how far I have come, and not on the times I stumble: that is the challenge.
+
+**Link to work:** https://plnkr.co/edit/kdR60nFHvdDa5FRmX21H?p=info
