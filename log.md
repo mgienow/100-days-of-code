@@ -27,3 +27,9 @@
 **Thoughts** Felt significantly more fluent with the code today. Able to press ahead even when it felt overwhelming; if i took a minute -- or several minutes -- to think things through, I could figure it out without relying on being led through it. Still feeling rusty, but proud and more confident. Also it finally occurred to me that I should start a repo for the different iterations of the app as it progresses.
 
 **Link to Work** https://github.com/mgienow/ToDo-List-App
+
+###Day 4: January 4, 2018
+
+**Today's Progress:** Version 6 of PJS. Also researched/read about/understood difference between APIs and Webhooks.
+
+**Thoughts** Still making small syntax errors but catching them quickly. However, tried to refactor to make use of map() or forEach() and was not able to get either to work in a reasonable amount of time, and decided to focus on building the app as is instead of figuring out now where I"m going wrong.
