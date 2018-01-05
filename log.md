@@ -33,3 +33,11 @@
 **Today's Progress:** Version 6 of PJS. Also researched/read about/understood difference between APIs and Webhooks.
 
 **Thoughts** Still making small syntax errors but catching them quickly. However, tried to refactor to make use of map() or forEach() and was not able to get either to work in a reasonable amount of time, and decided to focus on building the app as is instead of figuring out now where I"m going wrong.
+
+### Day 5: January 5, 2018
+
+When I did this last year, I started doing a codewars kata each day. It really made me feel like a coder. Now I am really struggling to figure out JS code challenges, though I feel like I know so much more ABOUT the language, have so much more understanding.
+
+**Today's Progress** flailed around with codewars kata "Title Case" -- got the logic to solve, or most of it, but not quite there on getting code to run.
+
+**Thoughts** my struggle is in how to handle UNDEFINED values. What do you do when a parameter simply isn't passed? As in, the second param in this function is optional.
