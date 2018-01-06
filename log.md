@@ -41,3 +41,11 @@ When I did this last year, I started doing a codewars kata each day. It really m
 **Today's Progress** flailed around with codewars kata "Title Case" -- got the logic to solve, or most of it, but not quite there on getting code to run.
 
 **Thoughts** my struggle is in how to handle UNDEFINED values. What do you do when a parameter simply isn't passed? As in, the second param in this function is optional.
+
+##Day 6: January 6, 2018
+
+I want major props for doing this while at MAGfest :)
+
+**Today's Prgoress** got Title Case challenge to run, but only by brute force. There has got to be a more elegant way to solve. So my next challenge will be to find that way. Feeling good that it works, though!
+
+**Link to Work** https://github.com/mgienow/Codewars-JS-ES6/blob/master/titleCase.js
