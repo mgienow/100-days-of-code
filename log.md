@@ -49,3 +49,28 @@ I want major props for doing this while at MAGfest :)
 **Today's Prgoress** got Title Case challenge to run, but only by brute force. There has got to be a more elegant way to solve. So my next challenge will be to find that way. Feeling good that it works, though!
 
 **Link to Work** https://github.com/mgienow/Codewars-JS-ES6/blob/master/titleCase.js
+
+##Day 7: January 7, 2018
+**Today's Progress:** simply not quitting
+
+**Thoughts** I've been feeling really frustrated with my inability to think through code challenges. I have lost a great deal of ground from 8 months ago when I was doing daily code challenges, and this is all my own fault. So a loop of self-blame and criticism. Not helpful! Last night I looked at an FCC challenge that Asa was struggling with, and realized that I had done it back in April of last year, and had zero idea now of how to approach it. I had to look at my own solution on GH to figure it out. This really dropped my spirits to the basement. I ended up doing some basic FCC JS tutorials to boost my confidence, and to feel like I am getting my head back in the game. It helped, knowing the answers and moving forward quickly. Also I re-learned some things I'd forgotten like string immutability. That you can't simply assign a new string to an existing string variable, but need to use string prototype methods to alter it.
+
+##Day 8: January 8, 2018
+
+**Today's Progress:** PJS - a new section I hadn't done before, on the differences between primitives and objects in JS, how data type comparisons behave differently. It was very useful. There were quizzes to see if you were grasping the logic, and that really helped -- my takeaway is REMEMBER TO LOOK AT EACH VARIABLE AS ITS OWN VALUE. JS sees only the assignment. Even if two variables are clearly related, logically, JS does not care -- but our human brains step in with relational assumptions that the computer brain simply does not see.
+
+Now moving on to V7 and it's my goal to complete this today.
+
+**Update** Finished v7
+
+##Day 9: 1/9/18
+
+**Today's Progress** I must confess to getting a few days behind in the log. Worked through more PJS. The using the debugger section. Today was a trainwreck because schools closed almost as soon as they opened, and my entire workday was about 90 minutes.
+
+##Day 10: 1/10/18
+
+**Today's Progress** Continued working through the FCC basic JS track as review. No new concepts, but it's definitely helping bring the previous learning I've done to the surface for more easy accessibility when i do try to code. Also it is helping with my confidence. So I did about 90 minutes and am more than halfway through what is supposed to be a 10 hour track.
+
+##Day 11 1/11/18
+
+**Today's Progress**  More FCC basic JS.  Plan to finish that today and try to get back to PJS.
