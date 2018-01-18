@@ -74,3 +74,27 @@ Now moving on to V7 and it's my goal to complete this today.
 ##Day 11 1/11/18
 
 **Today's Progress**  More FCC basic JS.  Plan to finish that today and try to get back to PJS.
+## Day 12 1/12/18
+**Today's Progress** Caesar's Code challenge with Asa
+
+## Day 13 1/13/18
+
+**Today's Progress** Did a "How Much JS Do You Know"? pop quiz, collaboratively with Asa.  Decided that, first, I don't know much; and second, that quiz was so ambiguously written as to be nearly useless. But it was helpful to articulate the concepts and think through them, bouncing ideas off each other.
+
+## Day 14 1/14/18
+
+**Today's Progress** More FCC basic JS. Thought I'd be finished by now. I'm not. Did 90 minutes even though it's sunday night and i'm tired.
+
+## Day 15 1/15/18
+
+**Today's progress** Learned basic JS regex today.  Self taught. About 6 hours.
+
+## Day 16 1/16/18
+
+**Today's progress** I've been writing all day, finished at 7:30 pm.  Did some FCC but had hard time concentrating. Still, I did it -- if it were not for this challenge, I would not have been coding at all today.
+
+##Day 17 1/17/18
+
+**Today's progress** Back to school night at betamore. makes me want to get back to PJS and finish that so i can start to make real progress in watch and code building actual things. so tired tonight that i just finished the FCC basic JS instead and moved forward into object oriented programming and functional programming section, which frankly is kind of a joke.
+
+tomorrow: i will do PJS for an hour in the morning while my mind is fresh. i'm sabotaging myself by putting my coding off til late in the evening. this should be a priority, not an afterthought.
