@@ -98,3 +98,21 @@ Now moving on to V7 and it's my goal to complete this today.
 **Today's progress** Back to school night at betamore. makes me want to get back to PJS and finish that so i can start to make real progress in watch and code building actual things. so tired tonight that i just finished the FCC basic JS instead and moved forward into object oriented programming and functional programming section, which frankly is kind of a joke.
 
 tomorrow: i will do PJS for an hour in the morning while my mind is fresh. i'm sabotaging myself by putting my coding off til late in the evening. this should be a priority, not an afterthought.
+
+##Day 18 1/18/18
+
+**Today's progress** Forgot I had the debugger section to finish in PJS before moving on to v8.  Very helpful practice that has already been applicable in my coding progress, but every time i review material like this i seem to (a) understand it more thoroughly upon re-encountering the concepts; and (b) pick up new nuances in how to use/appl the concepts.
+
+##Day 19 1/19/19
+
+**Today's progress** did refactoring of code in PJS v8, first section. also worked on FCC alogrithm challenges, trying to do one each day.
+
+##Day 20 1/20/18
+
+**Today's progress** FCC "Palindrome" algo challenge. learned a couple key things: first. 'replace()' affects the string IN PLACE, meaning that even if you reassign the value of the array to a variable and put replace() on the var, it STILL affects the original string too!
+
+Second, '/\w/' regex excludes anything that is not an alphanumeric character (so, /[A-Za-z0-9]/) EXCEPT the underscore.
+
+##Day 21 1/21/18
+
+**Today's progress** Actually I took a Sabbath day today to be fully present with family and stay away from screen distractions (I mostly put my phone away too, except for monitoring for calls/texts from coparent of my kids).
