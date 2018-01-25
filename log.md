@@ -125,3 +125,8 @@ Second, '/\w/' regex excludes anything that is not an alphanumeric character (so
 
 ##Day 24 1/24/18
 **Today's progress** Two FCC algo challenges, Title Case and find longest word in string. WOuld like to revisit these and find more elegant solutions, at least for the longest word challenge -- used a for loop for that, and i believe it could be done with reduce().
+
+##Day 25 1/25/18
+**Today's progress** finished PJS v9.  Feels good!
+
+**Link to the work** https://github.com/mgienow/ToDo-List-App/commit/f294d5bf43defc582d1f07eae96b190c1fbcd621
