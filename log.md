@@ -115,4 +115,13 @@ Second, '/\w/' regex excludes anything that is not an alphanumeric character (so
 
 ##Day 21 1/21/18
 
-**Today's progress** Actually I took a Sabbath day today to be fully present with family and stay away from screen distractions (I mostly put my phone away too, except for monitoring for calls/texts from coparent of my kids).
+**Today's progress** Actually I took a Sabbath day today to be fully present with family and stay away from screen distractions (I mostly put my phone away too, except for monitoring for calls/texts from coparent of my kids).  Also: from here on out I pledge to push this log to GH each day to remain current.
+
+##Day 22 1/22/18
+**Today's progress** Finished PJS v8.
+
+##Day 23 1/23/18
+**Today's progress** Started PJS v9.
+
+##Day 24 1/24/18
+**Today's progress** Two FCC algo challenges, Title Case and find longest word in string. WOuld like to revisit these and find more elegant solutions, at least for the longest word challenge -- used a for loop for that, and i believe it could be done with reduce().
