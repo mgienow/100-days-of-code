@@ -130,3 +130,30 @@ Second, '/\w/' regex excludes anything that is not an alphanumeric character (so
 **Today's progress** finished PJS v9.  Feels good!
 
 **Link to the work** https://github.com/mgienow/ToDo-List-App/commit/f294d5bf43defc582d1f07eae96b190c1fbcd621
+
+##Day 26 1/26/18
+**Today's progress** late start (after 9pm) but worked on FCC algo challenge. also finally set up a GH repo to hold these, and put in abundant comments to explain the code i wrote
+
+##Day 27 1/27/18
+
+**Today's progress** um crickets.  started the FCC confirm ending challenge but got only so far as to do it the way they said NOT to using the new-ish ES2015 endsWith() built in method
+
+##Day 28 1/28/18
+**Today's progress** did the righteous version of the confirm ending challenge, comparing string ending with target ending using substr().
+
+**link to the work** https://github.com/mgienow/FCC-JS-Exercises
+
+##Day 29 1/29/18
+**TOday's progress**
+
+
+##Day 30 1/30/18
+**Today's progress** First night of new FEWD cohort at Betamore!  Easily conquered an FCC algo challenge. Trying to do one each day, and they get easier every day that I do one. Like those parts of my brain are coming back online.
+
+##Day 31 1/31/18##
+**Today's Progress** Reviewed "functions inside of functions" on PJS. forEach(), setTimeout() -- learning about higher order functions taking other functions (callbacks) to enhance them
+
+##Day 32 2/1/18##
+**Today's Progress** Happy Imbolc!  On this day of days I nearly finished PJS at last -- got stuck on final refactoring from for loops to forEach.  Tomorrow is another day!
+
+**link to the work** https://github.com/mgienow/ToDo-List-App
